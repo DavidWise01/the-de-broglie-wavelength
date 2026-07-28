@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1911
+slug  : the-de-broglie-wavelength
+seal  : 6e8065bd26e0fe5a5a143ce96a7c69652a31d1e7c369c7c660d4795956e90613
+prev  : a25be22c54434715785c4c8f63d3c7254eaa56cd35815f5b2eda8163ca0965b6
+link  : edf42d685a61d46b321b80215c615249d7e9deef12d89bdfc7a0161f9a21ea0e
+head  : bb4bda7dabfef7996452001fbd47da7305ff2c57b1b240882544c17c47bf2dcb
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
